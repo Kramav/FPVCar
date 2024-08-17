@@ -12,6 +12,12 @@ https://www.amazon.com/DEVIT-ESP32-WROOM-32-Motor-Wheel-Controller/dp/B0BB6RC791
 
 This kit includes an ESP32 WROOM 32 Dev board by DIYMall, 4 basic DC motors and wheel, and an L298N motor controller.
 
+## Software
+
+You will need to install the RemoteXY library for arduino.  Follow the instructions located here. https://remotexy.com/en/library/
+
+An additional copy of the instructions are located in the repository for redundancy.
+
 ## Using the ESP32 WROOM 32 and Arduino
 
 Install the esp32 board manager by espreeif.
