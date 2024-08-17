@@ -19,3 +19,7 @@ after installation, use the "ESP32 Dev Module" and set upload type to DIO and up
 Your set up should look like this:
 
 ![image](https://github.com/user-attachments/assets/f997db81-1254-4bc3-9c0c-8af227972ba2)
+
+## Additional Resources
+
+https://www.youtube.com/watch?app=desktop&v=CuZntm0lRIA#:~:text=The%20ESP32%20is%20first%20programmed,button%20switch%20and%20a%20potentiometer.
