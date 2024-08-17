@@ -10,6 +10,8 @@ I literally just bought this Amazon kit for the drive train
 
 https://www.amazon.com/DEVIT-ESP32-WROOM-32-Motor-Wheel-Controller/dp/B0BB6RC791
 
+This kit includes an ESP32 WROOM 32 Dev board by DIYMall, 4 basic DC motors and wheel, and an L298N motor controller.
+
 ## Using the ESP32 WROOM 32 and Arduino
 
 Install the esp32 board manager by espreeif.
