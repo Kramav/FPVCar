@@ -28,9 +28,12 @@ Your set up should look like this:
 
 ![image](https://github.com/user-attachments/assets/f997db81-1254-4bc3-9c0c-8af227972ba2)
 
+![image](https://github.com/user-attachments/assets/2aed1bd8-223f-44aa-ad89-fa210624ad15)
+
 ## Setting Up Drive Train
 
 ![image](https://github.com/user-attachments/assets/451fe64b-f8a1-4eb4-8106-4d19f7b4deb2)
+
 
 ## Additional Resources
 
