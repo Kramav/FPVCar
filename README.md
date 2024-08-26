@@ -28,6 +28,16 @@ Your set up should look like this:
 
 ![image](https://github.com/user-attachments/assets/f997db81-1254-4bc3-9c0c-8af227972ba2)
 
+![image](https://github.com/user-attachments/assets/2aed1bd8-223f-44aa-ad89-fa210624ad15)
+
+## Setting Up Drive Train
+
+![image](https://github.com/user-attachments/assets/451fe64b-f8a1-4eb4-8106-4d19f7b4deb2)
+
+
 ## Additional Resources
+
+L298N DC Driver Module: (not sure why it does not print to pdf)
+https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/#controlling-a-dc-motor
 
 https://www.youtube.com/watch?app=desktop&v=CuZntm0lRIA#:~:text=The%20ESP32%20is%20first%20programmed,button%20switch%20and%20a%20potentiometer.
